@@ -23,7 +23,8 @@ I am a passionate software developer with a strong background in finance and dat
 
 ### HCI Project with Mental Health Focus
 **Mental Talk**  
-- In our increasingly stressful world, many people face mental health challenges like depression and anxiety, often worsened by external pressures from work, school, and family life. The purpose of Mental Talk is to provide a supportive environment where users can address their mental health challenges anonymously. Utilizing AI technology, the app analyzes conversations to provide personalized support and recommendations, includes mood tracking, AI-driven therapeutic exercises, and community-driven support systems. Inspired by successful platforms like Woebot, Wysa, and Brightside Health, Mental Talk aims to create an intuitive and engaging user experience. [Prototype URL](https://www.figma.com/proto/9SZWmVusn11c8FuMJ437lw/Online-Medical?node-id=4-2&t=EQZDNH56JywKRFLN-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=18%3A2)
+- In our increasingly stressful world, many people face mental health challenges like depression and anxiety, often worsened by external pressures from work, school, and family life. The purpose of Mental Talk is to provide a supportive environment where users can address their mental health challenges anonymously. Utilizing AI technology, the app analyzes conversations to provide personalized support and recommendations, includes mood tracking, AI-driven therapeutic exercises, and community-driven support systems. Inspired by successful platforms like Woebot, Wysa, and Brightside Health, Mental Talk aims to create an intuitive and engaging user experience.
+- [Prototype URL](https://www.figma.com/proto/9SZWmVusn11c8FuMJ437lw/Online-Medical?node-id=4-2&t=EQZDNH56JywKRFLN-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=18%3A2)
 
 ### Ernst & Young, New York City, NY
 **NYU Real World Course Experience**  
@@ -33,7 +34,14 @@ I am a passionate software developer with a strong background in finance and dat
 
 ### Python Project with Streamlit
 **Decoding E-Commerce Insights**  
-- Our application, 'Decoding E-Commerce Insights', is an innovative tool designed to revolutionize the online shopping experience for both consumers and store owners. Harnessing the power of the Fake Store API, this application provides a unique blend of realistic shopping scenarios and in-depth e-commerce data analysis. Key features include a customizable sidebar for effortless navigation, comprehensive statistical tables for product analysis, an image gallery to explore products visually, and dynamic maps to track customer distribution. This application serves as a bridge between a simulated shopping environment and a data validation tool, catering to a wide range of users from casual shoppers to business owners seeking valuable e-commerce insights. Built using Streamlit and Python, it offers seamless integration with the Fake Store API for fetching and displaying a wide range of e-commerce data. [Fake Store API Documentation](https://fakestoreapi.com/docs)
+- Our application, 'Decoding E-Commerce Insights', is an innovative tool designed to revolutionize the online shopping experience for both consumers and store owners. Harnessing the power of the Fake Store API, this application provides a unique blend of realistic shopping scenarios and in-depth e-commerce data analysis. Key features include a customizable sidebar for effortless navigation, comprehensive statistical tables for product analysis, an image gallery to explore products visually, and dynamic maps to track customer distribution. This application serves as a bridge between a simulated shopping environment and a data validation tool, catering to a wide range of users from casual shoppers to business owners seeking valuable e-commerce insights. Built using Streamlit and Python, it offers seamless integration with the Fake Store API for fetching and displaying a wide range of e-commerce data.
+- Reference: [Fake Store API Documentation](https://fakestoreapi.com/docs)
+- Github Repo: 
+
+### Web Development Project
+**kanbas-react-web-app**  
+- The "kanbas-react-web-app" repository is a React-based project for the CS5610 Web Development course. It demonstrates web development concepts such as component-based architecture, routing, state management, and CSS styling using Bootstrap. The project includes various labs and assignments.
+-  [Kanbas Web URL](https://a3--kanbas-react-web-app-sophia.netlify.app/#/LandingPage)
 
 ## Work Experience
 
