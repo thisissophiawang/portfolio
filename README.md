@@ -66,6 +66,7 @@
   
 ## Contact
 
-Feel free to reach out to me through email: xw1921@nyu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/xinyiwangsophia/).
+Feel free to reach out to me through email: xw1921@nyu.edu 
+or connect with me on [LinkedIn](https://www.linkedin.com/in/xinyiwangsophia/).
 
-Thank you for visiting my portfolio. I look forward to connecting with you and exploring opportunities to collaborate.
+
