@@ -1,1 +1,25 @@
+# Decoding E-Commerce Insights
+
+**Decoding E-Commerce Insights** is an innovative tool designed to revolutionize the online shopping experience for both consumers and store owners. This project harnesses the power of the Fake Store API to provide a unique blend of realistic shopping scenarios and in-depth e-commerce data analysis.
+
+## Features
+
+- **Customizable Sidebar**: Effortlessly navigate and filter data with a user-friendly sidebar.
+- **Comprehensive Statistical Tables**: Analyze product data with detailed statistical tables.
+- **Image Gallery**: Explore products visually through an interactive image gallery.
+- **Dynamic Maps**: Track customer distribution with dynamic maps.
+- **Detailed Product Insights**: Gain in-depth understanding of individual products.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.7+
+- Streamlit
+- Requests
+
+### Installation
+
+
+   
 
