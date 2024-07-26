@@ -53,4 +53,17 @@ Product List: View and analyze products with detailed information.
 Image Gallery: Explore products visually through the image gallery.
 Customer Distribution: Track customer distribution with dynamic maps.
 
+## Project Structure
+ ```bash
+Python Project with Streamlit/final_project/
+├── app.py
+├── models/
+│   ├── product.py
+├── pages/
+├── requirements.txt
+├── tests/
+│   ├── test_product.py
+└── README.md
+
+
 
