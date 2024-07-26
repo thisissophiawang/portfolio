@@ -42,6 +42,7 @@
 **Decoding E-Commerce Insights**  
 - Our application, 'Decoding E-Commerce Insights', is an innovative tool designed to revolutionize the online shopping experience for both consumers and store owners. Harnessing the power of the Fake Store API, this application provides a unique blend of realistic shopping scenarios and in-depth e-commerce data analysis. Key features include a customizable sidebar for effortless navigation, comprehensive statistical tables for product analysis, an image gallery to explore products visually, and dynamic maps to track customer distribution. This application serves as a bridge between a simulated shopping environment and a data validation tool, catering to a wide range of users from casual shoppers to business owners seeking valuable e-commerce insights. Built using Streamlit and Python, it offers seamless integration with the Fake Store API for fetching and displaying a wide range of e-commerce data.
 - Reference: [Fake Store API Documentation](https://fakestoreapi.com/docs)
+- [Streamlit URL](https://github.com/thisissophiawang/portfolio/tree/main/Python%20Project%20with%20Streamlit)
 
 ### Web Development Project
 **kanbas-react-web-app**  
