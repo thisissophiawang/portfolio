@@ -19,32 +19,19 @@
 - Requests
 
 ### Installation
+
 1. Clone the repository:
-```bash
+   ```bash
    git clone https://github.com/thisissophiawang/portfolio.git
    cd "Python Project with Streamlit/final_project"
-
-
 2.Install the required packages:
 pip install -r requirements.txt
 
 Running the Application
 1. Navigate to the project directory:
-cd "Python Project with Streamlit/final_project"
+   cd "Python Project with Streamlit/final_project"
 
 2. Run the Streamlit app:
-streamlit run app.py
+   streamlit run app.py
 
 3. Open your web browser and go to http://localhost:8501 to view the application.
-
-
-Usage
-Sidebar
-Filter Products: Use the sidebar to filter products by categories and ratings.
-View Statistics: Access statistical analysis tools to gain insights into product data.
-Main Page
-Product List: View and analyze products with detailed information.
-Image Gallery: Explore products visually through the image gallery.
-Customer Distribution: Track customer distribution with dynamic maps.
-
-
