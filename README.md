@@ -32,6 +32,11 @@
 - Prepared monthly updates on retail demand trends and led quality control of operation reports.
 
 ## Projects
+### C Language Project with Focus on Route Optimization
+**Route Finding in Maps using C Language** 
+-This project aims to develop an efficient implementation of Dijkstra's algorithm for route-finding from Vancouver to New York City using the C language. This involves using the Nominatim API to collect and process map data from OpenStreetMap (OSM), focusing on preselected midpoints (Denver, Oklahoma City, Kansas City, and Riverton) for reference. The algorithm will assume symmetrical distances between points and will not account for real-time traffic conditions or road closures, ensuring a simplified yet effective route optimization process.
+-[Project URL](https://github.com/thisissophiawang/portfolio/tree/main/Python%20Project%20with%20Streamlit)
+
 
 ### HCI Project with Mental Health Focus
 **Mental Talk**  
@@ -44,7 +49,7 @@
 - Reference: [Fake Store API Documentation](https://fakestoreapi.com/docs)
 - [Streamlit URL](https://github.com/thisissophiawang/portfolio/tree/main/Python%20Project%20with%20Streamlit)
 
-### Web Development Project
+### Web Development Project（CSS, JavaScript)
 **kanbas-react-web-app**  
 - The "kanbas-react-web-app" repository is a React-based project for the CS5610 Web Development course. It demonstrates web development concepts such as component-based architecture, routing, state management, and CSS styling using Bootstrap. The project includes various labs and assignments.
 - [Kanbas Web URL](https://a3--kanbas-react-web-app-sophia.netlify.app/#/LandingPage)
