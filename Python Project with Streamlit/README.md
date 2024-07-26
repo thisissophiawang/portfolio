@@ -19,11 +19,13 @@
 - Requests
 
 ### Installation
+1. Clone the repository:
 ```bash
    git clone https://github.com/thisissophiawang/portfolio.git
    cd "Python Project with Streamlit/final_project"
 
-## Install the required packages:
+
+2.Install the required packages:
 pip install -r requirements.txt
 
 Running the Application
