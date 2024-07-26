@@ -41,4 +41,5 @@ pip install -r requirements.txt
 3. Open your web browser and go to
    ```bash
     http://localhost:8501
+   
     to view the application.
