@@ -34,9 +34,9 @@ pip install -r requirements.txt
    ```bash
    cd "Python Project with Streamlit/final_project"
 
-2. Run the Streamlit app:
+2. Run the Streamlit app to view the output:
    ```bash
-   streamlit run app.py
+   streamlit run app.py 
 
 3. Open your web browser and go to
    ```bash
