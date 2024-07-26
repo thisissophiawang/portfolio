@@ -42,13 +42,13 @@ pip install -r requirements.txt
    ```bash
     http://localhost:8501
 
-### Usage
+## Usage
 
-## Sidebar
+### Sidebar
 Filter Products: Use the sidebar to filter products by categories and ratings.
 View Statistics: Access statistical analysis tools to gain insights into product data.
 
-## Main Page
+### Main Page
 Product List: View and analyze products with detailed information.
 Image Gallery: Explore products visually through the image gallery.
 Customer Distribution: Track customer distribution with dynamic maps.
