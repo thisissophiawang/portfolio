@@ -23,6 +23,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/thisissophiawang/portfolio.git
+   ```bash
    cd "Python Project with Streamlit/final_project"
 2.Install the required packages:
 pip install -r requirements.txt
@@ -34,6 +35,8 @@ pip install -r requirements.txt
    cd "Python Project with Streamlit/final_project"
 
 2. Run the Streamlit app:
+   ```bash
    streamlit run app.py
 
-3. Open your web browser and go to http://localhost:8501 to view the application.
+3. Open your web browser and go to ```bash http://localhost:8501
+    to view the application.
