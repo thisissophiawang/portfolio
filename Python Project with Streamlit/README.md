@@ -41,9 +41,9 @@ pip install -r requirements.txt
 3. Open your web browser to view the application and go to
    ```bash
     http://localhost:8501
-____________________________________________________________________________
 
 ### Usage
+
 ## Sidebar
 Filter Products: Use the sidebar to filter products by categories and ratings.
 View Statistics: Access statistical analysis tools to gain insights into product data.
