@@ -25,3 +25,28 @@ This project aims to develop an efficient implementation of Dijkstra's algorithm
    git clone https://github.com/thisissophiawang/portfolio.git
    cd "Route Finding in Maps using C language"
 
+2. **Clone and Install cJSON**:
+cJSON is a JSON parsing library in C. Clone it from GitHub and install it:
+ ```bash
+git clone https://github.com/DaveGamble/cJSON.git
+cd cJSON
+mkdir build
+cd build
+cmake ..
+make
+sudo make install
+
+### Running the Application
+1. Run the executable:
+ ```bash
+./vancouver
+./oklahoma_city
+./kansas_city
+./riverton
+./denver
+./new_york
+
+
+
+
+
