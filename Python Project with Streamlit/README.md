@@ -19,7 +19,9 @@
 - Requests
 
 ### Installation
-
+```bash
+   git clone https://github.com/thisissophia/decoding-ecommerce-insights.git
+   cd "Python Project with Streamlit/final_project"
 
    
 
