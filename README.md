@@ -35,6 +35,7 @@
 ### C Language Project with Focus on Route Optimization
 **Route Finding in Maps using C Language** 
 -This project aims to develop an efficient implementation of Dijkstra's algorithm for route-finding from Vancouver to New York City using the C language. This involves using the Nominatim API to collect and process map data from OpenStreetMap (OSM), focusing on preselected midpoints (Denver, Oklahoma City, Kansas City, and Riverton) for reference. The algorithm will assume symmetrical distances between points and will not account for real-time traffic conditions or road closures, ensuring a simplified yet effective route optimization process.
+-[Reference](https://www.geeksforgeeks.org/introduction-to-dijkstras-shortest-path-algorithm/)
 -[Project URL](https://github.com/thisissophiawang/portfolio/tree/main/Route%20Finding%20in%20Maps%20using%20C%20language)
 
 
