@@ -27,8 +27,10 @@
 2.Install the required packages:
 pip install -r requirements.txt
 
-Running the Application
+### Running the Application
+
 1. Navigate to the project directory:
+   ```bash
    cd "Python Project with Streamlit/final_project"
 
 2. Run the Streamlit app:
