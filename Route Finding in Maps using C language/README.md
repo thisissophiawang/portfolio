@@ -36,7 +36,9 @@ cmake ..
 make
 sudo make install
 
+
 ### Running the Application
+
 1. Run the executable:
  ```bash
 ./vancouver
